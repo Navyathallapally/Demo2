@@ -8,6 +8,7 @@ namespace Demo2
         {
             Console.WriteLine("Hello its me");
              Console.WriteLine("Apples");
+              Console.WriteLine("Oranges");
 
         }
     }
